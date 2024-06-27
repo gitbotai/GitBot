@@ -1,0 +1,2 @@
+# GitBot
+gitbot.ai
